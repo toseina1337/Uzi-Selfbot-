@@ -1,17 +1,6 @@
 {
-    "token": "Njg1MjM3MDE1NjMzMDY4MDM4.X12YgQ.Rmz8w1jKByNiPwcni2FBCQ7rbxc",
+    "token": "",
     "prefix": "x",   
-    
-    "nitro_sniper": true, 
-    "giveaway_sniper": true,
-    "slotbot_sniper": true,
-    "privnote_sniper": true,
-
-    "stream_url": "https://twitch.tv/monstercat",
+    "stream_url": "https://twitch.tv/uzi1337",
     "tts_language": "en",
-
-    "bitly_key": "bitly-key-here",
-    "cat_key": "cat-key-here",
-    "weather_key": "weather-key-here",
-    "cuttly_key": "cuttly-key-here"
 }
